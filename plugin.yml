@@ -1,0 +1,5 @@
+name: WhatYouEat
+main: net.trialtest.shitmod.Main
+version: 1.0
+api-version: 1.18
+description: Minecraft plugin for your post-dietary needs.

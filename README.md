@@ -21,7 +21,9 @@ Every time you shift you poo. I guess you didn't drink enough water because they
 Eating some foods (raw beef, raw pork, swords, apple) will make you shit out something... unique.
 
 **Beef & Pork:** Takes 6 "pushes" to birth a cow or pig. Take 2.25 hearts of damage.
+
 **Iron Sword:** Takes 1.5 hearts of damage, sword comes out your ass.
+
 **Apple:** You shit out a tree. Don't swallow fruit seeds guys!
 
 The first time you touch something with the name "Poo", you'll see a message from the game calling you nasty and inflicting you with poison since touching feces *is* unsanitary. Further touching is unnecessary and won't trigger anything (but really, don't touch poo) for the sake of not getting poisoned since the item pickup radius is relatively high.

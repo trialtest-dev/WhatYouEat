@@ -18,4 +18,10 @@ In the future, I'd like to make sound effects random and increase the quantity a
 ## Usage
 Every time you shift you poo. I guess you didn't drink enough water because they're the little pebbly shits that rapid fire plop into the toilet. Every shit will remove 1 saturation if full, or 1 hunger if saturation is zero. Yes, you can kill yourself from starvation from shitting too much.
 
-Eating some foods (raw beef, raw pork, swords, apple) will make you shit out something... unique. Of course, that's even more detrimental to your health than normal pooing.
+Eating some foods (raw beef, raw pork, swords, apple) will make you shit out something... unique.
+
+**Beef & Pork:** Takes 6 "pushes" to birth a cow or pig. Take 2.25 hearts of damage.
+**Iron Sword:** Takes 1.5 hearts of damage, sword comes out your ass.
+**Apple:** You shit out a tree. Don't swallow fruit seeds guys!
+
+The first time you touch something with the name "Poo", you'll see a message from the game calling you nasty and inflicting you with poison since touching feces *is* unsanitary. Further touching is unnecessary and won't trigger anything (but really, don't touch poo) for the sake of not getting poisoned since the item pickup radius is relatively high.
